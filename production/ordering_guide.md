@@ -30,7 +30,7 @@ Click "Next" to go to the relevant page for upload of BOM and CPL files.
 ![image](https://github.com/nordstream3/FOC/assets/129880401/09f819ce-4bdc-4bc4-87c6-56ad387d1e9e)
 
 Follow [this](./bom.csv) link to download the BOM located in the /production folder.  
-Follow [this](./foc_cpl_top.csv) link to download the CPL located in the /production folder.
+Follow [this](./positions.csv) link to download the CPL located in the /production folder.
 
 When you have successfully uploaded the BOM and CPL click on "Process BOM & CPL", whereafter you will be presented with an "ERROR".
 
